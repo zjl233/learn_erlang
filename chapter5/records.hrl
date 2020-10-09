@@ -1,0 +1,2 @@
+-record(foo, {bar, baz=5}).
+-record(todo, {status=reminder, who=joe, text}).
